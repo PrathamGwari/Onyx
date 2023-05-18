@@ -197,6 +197,10 @@ video {
   justify-content: center;
 }
 
+.error-message {
+  color: white;
+}
+
 .authstuff h1 {
   color: white;
 }
